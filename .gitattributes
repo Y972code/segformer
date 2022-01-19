@@ -1,0 +1,1 @@
+segformer_mit-b5_512x512_160k_ade20k.pdparams filter=lfs diff=lfs merge=lfs -text
